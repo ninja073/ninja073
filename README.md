@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is nitish and I'm a Full Stack Web Developer, from Bangalore</h2>
+<h2 align="left">Hi 👋! My name is @ninja073 and I'm a Full Stack Web Developer, from Bangalore</h2>
 
 ###
 
